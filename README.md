@@ -4,76 +4,75 @@
   <b>Solving problems. Building consistency. Preparing for software engineering interviews.</b>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/suraj737/">
+    <img src="https://img.shields.io/badge/LeetCode-suraj737-orange?logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://github.com/Suraj-737">
+    <img src="https://img.shields.io/badge/GitHub-Suraj--737-black?logo=github">
+  </a>
+</p>
+
 ---
 
-## 📊 My Progress
+## 📊 LeetCode Stats
 
-| Platform | Profile |
-|----------|---------|
-| 🟧 LeetCode | [suraj737](https://leetcode.com/u/suraj737/) |
-| 🐙 GitHub | [Suraj-737](https://github.com/Suraj-737) |
+<p align="center">
+  <a href="https://leetcode.com/u/suraj737/">
+    <img src="https://leetcard.jacoblin.cool/suraj737?theme=dark&font=baloo&ext=contest" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 Topics
 
-### Arrays
-Problems involving arrays, prefix sums, sorting and searching.
-
-### Hash Table
-Hashing, frequency counting and lookup problems.
-
-### Two Pointers
-Two-pointer and fast/slow-pointer techniques.
-
-### Sliding Window
-Fixed and variable-size sliding window problems.
-
-### Stack & Queue
-Stack, queue and monotonic stack problems.
-
-### Linked List
-Singly linked lists, doubly linked lists and pointer manipulation.
-
-### Binary Tree
-Tree traversal, BST, recursion and tree-based problems.
-
-### Graph
-BFS, DFS, shortest path and graph algorithms.
-
-### Dynamic Programming
-Knapsack, subsequences, memoization and tabulation.
-
-### Matrix
-2D arrays, matrix traversal and grid problems.
+| Topic | Problems |
+|---|---:|
+| 🔢 Array | — |
+| #️⃣ Hash Table | — |
+| 👉 Two Pointers | — |
+| 🪟 Sliding Window | — |
+| 📚 Stack | — |
+| 🚶 Queue | — |
+| 🔗 Linked List | — |
+| 🌳 Binary Tree | — |
+| 🕸️ Graph | — |
+| 🧮 Dynamic Programming | — |
+| 🎯 Greedy | — |
+| 🔲 Matrix | — |
 
 ---
 
-## 🚀 Recent Problems
+## 💻 Language
+
+### C++
+
+I primarily solve LeetCode problems using **C++**.
+
+---
+
+## 🚀 Recent Solutions
 
 | # | Problem | Language | Topic |
-|---|---------|----------|-------|
+|---:|---|---|---|
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | C++ | Array / Hash Table / Matrix |
-| 15 | [3Sum](./0015-3sum) | C++ | Two Pointers |
-| 1 | [Two Sum](./0001-two-sum) | C++ | Array / Hash Table |
 
----
-
-## 🛠️ Language
-
-**C++**
-
-I primarily solve LeetCode problems using C++.
+> This section will grow as I continue solving problems.
 
 ---
 
 ## 🎯 Goal
 
-> Consistently improve Data Structures & Algorithms skills and prepare for product-based software engineering interviews.
+Consistently improve my **Data Structures & Algorithms** skills and prepare for **product-based software engineering interviews**.
 
 ---
 
-## 🔗 Profiles
+## 🔗 Coding Profiles
 
-- 🟧 [LeetCode](https://leetcode.com/u/suraj737/)
-- 🐙 [GitHub](https://github.com/Suraj-737/)
+- 🟧 **LeetCode:** [suraj737](https://leetcode.com/u/suraj737/)
+- 🐙 **GitHub:** [Suraj-737](https://github.com/Suraj-737)
+
+---
+
+⭐ If you find these solutions useful, feel free to star the repository!
