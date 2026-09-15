@@ -83,6 +83,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Suraj-737/LeetCode/tree/master/0049-group-anagrams) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0835-image-overlap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-737/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -111,6 +112,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0835-image-overlap) |
 ## Math
 |  |
@@ -120,4 +122,12 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0836-rectangle-overlap) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
