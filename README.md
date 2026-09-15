@@ -85,6 +85,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0049-group-anagrams](https://github.com/Suraj-737/LeetCode/tree/master/0049-group-anagrams) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0835-image-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-737/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Geometry
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +141,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suraj-737/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
