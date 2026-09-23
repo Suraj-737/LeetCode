@@ -90,6 +90,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0835-image-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suraj-737/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-737/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Suraj-737/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
@@ -98,6 +99,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0049-group-anagrams](https://github.com/Suraj-737/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Suraj-737/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suraj-737/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-737/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -146,6 +148,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suraj-737/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,10 +171,12 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Suraj-737/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suraj-737/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suraj-737/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suraj-737/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
