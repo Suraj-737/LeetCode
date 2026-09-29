@@ -90,6 +90,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suraj-737/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0835-image-overlap) |
+| [1436-destination-city](https://github.com/Suraj-737/LeetCode/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suraj-737/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -102,6 +103,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | ------- |
 | [0049-group-anagrams](https://github.com/Suraj-737/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Suraj-737/LeetCode/tree/master/0205-isomorphic-strings) |
+| [1436-destination-city](https://github.com/Suraj-737/LeetCode/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suraj-737/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suraj-737/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -112,6 +114,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0049-group-anagrams](https://github.com/Suraj-737/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Suraj-737/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1436-destination-city](https://github.com/Suraj-737/LeetCode/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suraj-737/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suraj-737/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
