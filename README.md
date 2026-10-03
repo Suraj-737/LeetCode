@@ -86,6 +86,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0039-combination-sum](https://github.com/Suraj-737/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Suraj-737/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Suraj-737/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Suraj-737/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Suraj-737/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suraj-737/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -102,6 +103,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Suraj-737/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Suraj-737/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Suraj-737/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1436-destination-city](https://github.com/Suraj-737/LeetCode/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -225,4 +227,8 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0039-combination-sum](https://github.com/Suraj-737/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Suraj-737/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Suraj-737/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Suraj-737/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
