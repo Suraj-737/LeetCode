@@ -137,6 +137,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Suraj-737/LeetCode/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-737/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -151,6 +152,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Suraj-737/LeetCode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Suraj-737/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -246,4 +248,8 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-737/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Suraj-737/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
