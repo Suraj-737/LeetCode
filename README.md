@@ -125,6 +125,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0049-group-anagrams](https://github.com/Suraj-737/LeetCode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Suraj-737/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Suraj-737/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0394-decode-string](https://github.com/Suraj-737/LeetCode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Suraj-737/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-737/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -145,6 +146,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Suraj-737/LeetCode/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/Suraj-737/LeetCode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-737/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -230,6 +232,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/Suraj-737/LeetCode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Suraj-737/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Suraj-737/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0856-score-of-parentheses) |
