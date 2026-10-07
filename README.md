@@ -85,6 +85,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0033-search-in-rotated-sorted-array](https://github.com/Suraj-737/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Suraj-737/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Suraj-737/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Suraj-737/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Suraj-737/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Suraj-737/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Suraj-737/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -259,6 +260,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0022-generate-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Suraj-737/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Suraj-737/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Suraj-737/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Suraj-737/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Suraj-737/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0301-remove-invalid-parentheses) |
