@@ -136,6 +136,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0856-score-of-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-737/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suraj-737/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Suraj-737/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1436-destination-city](https://github.com/Suraj-737/LeetCode/tree/master/1436-destination-city) |
@@ -214,6 +215,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Suraj-737/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-737/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suraj-737/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suraj-737/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Suraj-737/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suraj-737/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -255,6 +257,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0907-sum-of-subarray-minimums](https://github.com/Suraj-737/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-737/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suraj-737/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Suraj-737/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suraj-737/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -301,6 +304,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Suraj-737/LeetCode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suraj-737/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suraj-737/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
