@@ -102,6 +102,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suraj-737/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-737/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Suraj-737/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Suraj-737/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-737/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Suraj-737/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suraj-737/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -158,6 +159,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Suraj-737/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-737/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
