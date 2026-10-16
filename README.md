@@ -91,6 +91,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0128-longest-consecutive-sequence](https://github.com/Suraj-737/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Suraj-737/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suraj-737/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Suraj-737/LeetCode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suraj-737/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0739-daily-temperatures](https://github.com/Suraj-737/LeetCode/tree/master/0739-daily-temperatures) |
@@ -177,6 +178,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Suraj-737/LeetCode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suraj-737/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0835-image-overlap) |
@@ -308,6 +310,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Suraj-737/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Suraj-737/LeetCode/tree/master/0200-number-of-islands) |
 ## Quicksort
 |  |
 | ------- |
@@ -328,6 +331,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Suraj-737/LeetCode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Indexed Tree
 |  |
@@ -339,4 +343,8 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suraj-737/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Suraj-737/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Suraj-737/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
