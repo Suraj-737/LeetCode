@@ -203,6 +203,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Suraj-737/LeetCode/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
@@ -272,6 +273,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0020-valid-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Suraj-737/LeetCode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Suraj-737/LeetCode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Suraj-737/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Suraj-737/LeetCode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Suraj-737/LeetCode/tree/master/0678-valid-parenthesis-string) |
