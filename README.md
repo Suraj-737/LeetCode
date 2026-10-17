@@ -112,6 +112,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-737/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Suraj-737/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suraj-737/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Suraj-737/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Suraj-737/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suraj-737/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Suraj-737/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-737/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Suraj-737/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -163,6 +165,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0922-sort-array-by-parity-ii](https://github.com/Suraj-737/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-737/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Suraj-737/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Suraj-737/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Suraj-737/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
