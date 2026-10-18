@@ -188,6 +188,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Suraj-737/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Suraj-737/LeetCode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Suraj-737/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -222,6 +223,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Suraj-737/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Suraj-737/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/Suraj-737/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suraj-737/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -365,4 +367,8 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Suraj-737/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Suraj-737/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
