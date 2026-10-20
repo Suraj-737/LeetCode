@@ -100,6 +100,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0739-daily-temperatures](https://github.com/Suraj-737/LeetCode/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0835-image-overlap) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suraj-737/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/Suraj-737/LeetCode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suraj-737/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj-737/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Suraj-737/LeetCode/tree/master/1436-destination-city) |
