@@ -100,6 +100,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0835-image-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0835-image-overlap) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suraj-737/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suraj-737/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj-737/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Suraj-737/LeetCode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/Suraj-737/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -129,6 +130,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0128-longest-consecutive-sequence](https://github.com/Suraj-737/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Suraj-737/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0645-set-mismatch](https://github.com/Suraj-737/LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj-737/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Suraj-737/LeetCode/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suraj-737/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -172,6 +174,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suraj-737/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/Suraj-737/LeetCode/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suraj-737/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj-737/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-737/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suraj-737/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Suraj-737/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -421,4 +424,8 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Suraj-737/LeetCode/tree/master/0901-online-stock-span) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj-737/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
