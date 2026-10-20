@@ -105,6 +105,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suraj-737/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suraj-737/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-737/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1929-concatenation-of-array](https://github.com/Suraj-737/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suraj-737/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Suraj-737/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suraj-737/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -280,6 +281,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Suraj-737/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suraj-737/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
