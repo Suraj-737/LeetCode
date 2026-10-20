@@ -99,6 +99,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0907-sum-of-subarray-minimums](https://github.com/Suraj-737/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suraj-737/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1436-destination-city](https://github.com/Suraj-737/LeetCode/tree/master/1436-destination-city) |
+| [1470-shuffle-the-array](https://github.com/Suraj-737/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj-737/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
