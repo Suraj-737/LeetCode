@@ -203,6 +203,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0070-climbing-stairs](https://github.com/Suraj-737/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Suraj-737/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Suraj-737/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0633-sum-of-square-numbers](https://github.com/Suraj-737/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Suraj-737/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -232,6 +233,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suraj-737/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/Suraj-737/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suraj-737/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suraj-737/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
@@ -268,6 +270,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Suraj-737/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suraj-737/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suraj-737/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0633-sum-of-square-numbers](https://github.com/Suraj-737/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suraj-737/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suraj-737/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
