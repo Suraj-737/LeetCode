@@ -6,7 +6,7 @@ public:
         while(i<=j){
             long long sum=i*i+j*j;
             if(sum==c) return true;
-            else if(sum<c) i++;
+            if(sum<c) i++;
             else j--;
         }
         return false;
