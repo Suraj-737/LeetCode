@@ -89,6 +89,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0049-group-anagrams](https://github.com/Suraj-737/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Suraj-737/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Suraj-737/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Suraj-737/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Suraj-737/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suraj-737/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Suraj-737/LeetCode/tree/master/0200-number-of-islands) |
@@ -209,6 +210,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Suraj-737/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Suraj-737/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Suraj-737/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Suraj-737/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/Suraj-737/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -306,6 +308,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0020-valid-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Suraj-737/LeetCode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Suraj-737/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Suraj-737/LeetCode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Suraj-737/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Suraj-737/LeetCode/tree/master/0394-decode-string) |
