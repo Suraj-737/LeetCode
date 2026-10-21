@@ -104,6 +104,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0922-sort-array-by-parity-ii](https://github.com/Suraj-737/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj-737/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Suraj-737/LeetCode/tree/master/1436-destination-city) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Suraj-737/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Suraj-737/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Suraj-737/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -296,6 +297,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Suraj-737/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Suraj-737/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suraj-737/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -317,6 +319,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suraj-737/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Suraj-737/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Suraj-737/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suraj-737/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
