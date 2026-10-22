@@ -97,6 +97,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suraj-737/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suraj-737/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Suraj-737/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0636-exclusive-time-of-functions](https://github.com/Suraj-737/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Suraj-737/LeetCode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Suraj-737/LeetCode/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0835-image-overlap) |
@@ -313,6 +314,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0155-min-stack](https://github.com/Suraj-737/LeetCode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Suraj-737/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Suraj-737/LeetCode/tree/master/0394-decode-string) |
+| [0636-exclusive-time-of-functions](https://github.com/Suraj-737/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Suraj-737/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Suraj-737/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0856-score-of-parentheses) |
