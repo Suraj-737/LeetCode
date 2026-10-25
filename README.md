@@ -104,6 +104,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0907-sum-of-subarray-minimums](https://github.com/Suraj-737/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Suraj-737/LeetCode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suraj-737/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1254-number-of-closed-islands](https://github.com/Suraj-737/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suraj-737/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Suraj-737/LeetCode/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suraj-737/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -210,6 +211,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0304-range-sum-query-2d-immutable](https://github.com/Suraj-737/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suraj-737/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/Suraj-737/LeetCode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Suraj-737/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Math
 |  |
 | ------- |
@@ -360,6 +362,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Suraj-737/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Suraj-737/LeetCode/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/Suraj-737/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj-737/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Quicksort
 |  |
@@ -387,6 +390,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | ------- |
 | [0200-number-of-islands](https://github.com/Suraj-737/LeetCode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Suraj-737/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -402,6 +406,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | ------- |
 | [0200-number-of-islands](https://github.com/Suraj-737/LeetCode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Suraj-737/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Suraj-737/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
 | ------- |
