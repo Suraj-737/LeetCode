@@ -114,6 +114,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj-737/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suraj-737/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Suraj-737/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suraj-737/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-737/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Suraj-737/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -310,6 +311,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suraj-737/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Suraj-737/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Suraj-737/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suraj-737/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -337,6 +339,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [1441-build-an-array-with-stack-operations](https://github.com/Suraj-737/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suraj-737/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Suraj-737/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Suraj-737/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -462,4 +465,8 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suraj-737/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Suraj-737/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
