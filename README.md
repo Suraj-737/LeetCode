@@ -184,6 +184,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [3498-reverse-degree-of-a-string](https://github.com/Suraj-737/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Suraj-737/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Suraj-737/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Suraj-737/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -312,6 +313,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suraj-737/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-737/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Suraj-737/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Suraj-737/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -485,10 +487,12 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-737/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Suraj-737/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-737/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Suraj-737/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## 0-1 BFS
 |  |
 | ------- |
