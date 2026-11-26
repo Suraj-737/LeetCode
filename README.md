@@ -240,6 +240,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suraj-737/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Suraj-737/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Suraj-737/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Suraj-737/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Suraj-737/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/Suraj-737/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suraj-737/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -329,6 +330,7 @@ Consistently improve my **Data Structures & Algorithms** skills and prepare for 
 | [1441-build-an-array-with-stack-operations](https://github.com/Suraj-737/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Suraj-737/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Suraj-737/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/Suraj-737/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suraj-737/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
